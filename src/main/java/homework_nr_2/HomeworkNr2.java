@@ -14,7 +14,7 @@ public class HomeworkNr2 {
         System.out.println(JavaIsAmazing);
         System.out.println(Pi);
 
-        double Price = 65.155511111548;
+        double Price = 65.1555111115484;
         double Tax = 12.1241245645532;
         int Quantity = 100;
         double Sum = 0;
